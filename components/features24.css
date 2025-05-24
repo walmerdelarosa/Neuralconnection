@@ -22,25 +22,7 @@
   justify-content: center;
 }
  
-.features24-image1 {
-  animation-name: fadeIn;
-  animation-delay: 0s;
-  animation-duration: 300ms;
-  animation-direction: normal;
-  animation-iteration-count: 1;
-  animation-timing-function: ease;
-}
- 
-.features24-image2 {
-  animation-name: fadeIn;
-  animation-delay: 0s;
-  animation-duration: 300ms;
-  animation-direction: normal;
-  animation-iteration-count: 1;
-  animation-timing-function: ease;
-}
- 
-.features24-image3 {
+.features24-image {
   width: var(--dl-layout-size-xxlarge);
   object-fit: cover;
 }
